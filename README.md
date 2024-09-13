@@ -1,10 +1,10 @@
-# House Price Detection
+# House Price Prediction
 
 A project for predicting house prices using machine learning algorithms. Includes data preprocessing, model training, and evaluation.
 
 ## 🏠 House Price Detection
 
-Welcome to the House Price Detection project! This project utilizes machine learning techniques to predict house prices based on various features. The Jupyter Notebook `House_Price_Prediction.ipynb` includes exploratory data analysis (EDA) and model training. The trained model is saved as `price_test.h5`.
+Welcome to the House Price Prediction project! This project utilizes machine learning techniques to predict house prices based on various features. The Jupyter Notebook `House_Price_Prediction.ipynb` includes exploratory data analysis (EDA) and model training. The trained model is saved as `price_test.h5`.
 
 ## 📋 Table of Contents
 
@@ -36,7 +36,7 @@ To set up this project on your local machine:
 2. **Navigate to the Project Directory**:
 
     ```bash
-    cd house-price-detection
+    cd House-Price-Prediction
     ```
 
 3. **Install Required Dependencies**:
