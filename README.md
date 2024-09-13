@@ -1,19 +1,19 @@
-# House-Price-Prediction
+# House Price Detection
+
 A project for predicting house prices using machine learning algorithms. Includes data preprocessing, model training, and evaluation.
 
-
-# 🏠 House Price Detection
+## 🏠 House Price Detection
 
 Welcome to the House Price Detection project! This project utilizes machine learning techniques to predict house prices based on various features. The Jupyter Notebook `House_Price_Prediction.ipynb` includes exploratory data analysis (EDA) and model training. The trained model is saved as `price_test.h5`.
 
 ## 📋 Table of Contents
 
-- **[Description]**(#-description)
-- **[Installation]**(#-installation)
-- **[Usage]**(#-usage)
-- **[Features]**(#-features)
-- **[Technologies]**(#-technologies)
-- **[License]**(#-license)
+- **[Description](#description)**
+- **[Installation](#installation)**
+- **[Usage](#usage)**
+- **[Features](#features)**
+- **[Technologies](#technologies)**
+- **[License](#license)**
 
 ## 📝 Description
 
@@ -29,28 +29,31 @@ To set up this project on your local machine:
 
 1. **Clone the Repository**:
 
+    ```bash
     git clone https://github.com/Sohail-Shaikh-07/House-Price-Prediction.git
- 
+    ```
 
 2. **Navigate to the Project Directory**:
 
-   `cd house-price-detection`
-     
+    ```bash
+    cd house-price-detection
+    ```
 
 3. **Install Required Dependencies**:
     Ensure you have the necessary Python libraries. Use the following command:
 
-    `pip install -r requirements.txt`
-    
-  
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## 🛠️ Usage
 
 1. **Open the Jupyter Notebook**:
     Launch Jupyter Notebook and open `House_Price_Prediction.ipynb`:
 
+    ```bash
     jupyter notebook
-
+    ```
 
 2. **Run the Notebook**:
     Follow the notebook cells to:
@@ -77,15 +80,10 @@ To set up this project on your local machine:
 - **TensorFlow/Keras**: For model training (if used).
 - **Matplotlib**: Data visualization.
 
-
 ## 📄 License
 
-This project is licensed under the [MIT License](https://github.com/Sohail-Shaikh-07/House-Price-Prediction/blob/91f252e950b9dfd1709f9c16c19337c3ea74976c/LICENCE) - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/Sohail-Shaikh-07/House-Price-Prediction/blob/main/LICENSE) - see the LICENSE file for details.
 
 ---
 
 Thank you for checking out the House Price Detection project! If you have any questions or suggestions, feel free to open an issue or reach out.
-
-
-
-
