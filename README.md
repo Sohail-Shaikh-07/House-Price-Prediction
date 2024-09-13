@@ -8,12 +8,12 @@ Welcome to the House Price Detection project! This project utilizes machine lear
 
 ## 📋 Table of Contents
 
-- **[Description](#description)**
-- **[Installation](#installation)**
-- **[Usage](#usage)**
-- **[Features](#features)**
-- **[Technologies](#technologies)**
-- **[License](#license)**
+- **[Description](#-description)**
+- **[Installation](#-installation)**
+- **[Usage](#-usage)**
+- **[Features](#-features)**
+- **[Technologies](#-technologies)**
+- **[License](#-license)**
 
 ## 📝 Description
 
