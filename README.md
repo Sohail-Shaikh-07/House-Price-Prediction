@@ -1,32 +1,6 @@
 # House-Price-Prediction
 A project for predicting house prices using machine learning algorithms. Includes data preprocessing, model training, and evaluation.
 
-# House Price Detection
-
-## Description
-
-This project is focused on predicting house prices using machine learning algorithms.
-
-## Installation
-
-Instructions for installing the project.
-
-## Usage
-
-How to use the project.
-
-## Features
-
-Key features of the project.
-
-## Technologies
-
-Technologies used in the project.
-
-## License
-
-Details about the project license.
-
 
 # 🏠 House Price Detection
 
@@ -34,12 +8,12 @@ Welcome to the House Price Detection project! This project utilizes machine lear
 
 ## 📋 Table of Contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies](#technologies)
-- [License](#license)
+- [Description](#-description)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Features](#-features)
+- [Technologies](#-technologies)
+- [License](#-license)
 
 ## 📝 Description
 
@@ -111,5 +85,7 @@ This project is licensed under the [MIT License](https://github.com/Sohail-Shaik
 ---
 
 Thank you for checking out the House Price Detection project! If you have any questions or suggestions, feel free to open an issue or reach out.
+
+
 
 
