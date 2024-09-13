@@ -1,6 +1,32 @@
 # House-Price-Prediction
 A project for predicting house prices using machine learning algorithms. Includes data preprocessing, model training, and evaluation.
 
+# House Price Detection
+
+## Description
+
+This project is focused on predicting house prices using machine learning algorithms.
+
+## Installation
+
+Instructions for installing the project.
+
+## Usage
+
+How to use the project.
+
+## Features
+
+Key features of the project.
+
+## Technologies
+
+Technologies used in the project.
+
+## License
+
+Details about the project license.
+
 
 # 🏠 House Price Detection
 
