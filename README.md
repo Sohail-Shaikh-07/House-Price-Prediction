@@ -34,13 +34,13 @@ To set up this project on your local machine:
 
 2. **Navigate to the Project Directory**:
     
-    cd house-price-detection
+    'cd house-price-detection'
     
 
 3. **Install Required Dependencies**:
     Ensure you have the necessary Python libraries. Use the following command:
- 
-    pip install -r requirements.txt
+  
+    '''pip install -r requirements.txt'''
   
 
 ## 🛠️ Usage
