@@ -80,7 +80,7 @@ To set up this project on your local machine:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/Sohail-Shaikh-07/House-Price-Prediction/blob/91f252e950b9dfd1709f9c16c19337c3ea74976c/LICENCE) - see the LICENSE file for details.
 
 ---
 
